@@ -1,0 +1,1 @@
+Damizcakes is just a demo website built using HTML, CSS and Javascript. It showcases an index page, gallery page, contact page and also a reservation page which will help whoever is using the site easily surf through it.
